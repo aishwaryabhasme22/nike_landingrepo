@@ -19,6 +19,6 @@ steps:
 - task: Npm@1
   inputs:
     command: 'publish'
-    workingDir: 'aishwaryabhasme22 / nike_landingrepo'
+    workingDir: ''
     publishRegistry: 'useFeed'
     publishFeed: '27eb689e-9051-49ad-8090-3a9e444f42a7/28330236-4704-41bc-ba5d-7b9c480ce1c6'
